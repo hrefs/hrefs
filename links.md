@@ -1,5 +1,10 @@
 ## Computing
 
+- http://unicode.org/emoji/charts/full-emoji-list.html
+  -  List of emoji, showing how they render on different platforms
+
+## Software Development
+
 - http://c2.com/
   - Cunningham & Cunningham, inc., an apparently defunct software consultancy with some
     good content about OOP and XP. Check out the Portland Pattern Repository wiki!

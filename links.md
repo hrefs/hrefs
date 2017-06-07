@@ -14,6 +14,7 @@
 ## Board Games
 
 - https://www.shutupandsitdown.com/
+- https://boardgamegeek.com/
 
 ## History
 

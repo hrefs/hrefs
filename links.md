@@ -28,3 +28,9 @@
 ## General Nerdery
 
 - http://zompist.com
+
+## Links discovered by Devoro
+
+- http://granniemay.blogspot.com/
+- http://magiccarpetburn.blogspot.com/
+- http://mallardofdiscontent.blogspot.com/
